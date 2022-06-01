@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vnexpress-clone/static/css/main.c2b5ae7c.css",
+    "main.js": "/vnexpress-clone/static/js/main.eeb72f49.js",
+    "index.html": "/vnexpress-clone/index.html",
+    "main.c2b5ae7c.css.map": "/vnexpress-clone/static/css/main.c2b5ae7c.css.map",
+    "main.eeb72f49.js.map": "/vnexpress-clone/static/js/main.eeb72f49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b5ae7c.css",
+    "static/js/main.eeb72f49.js"
+  ]
+}
